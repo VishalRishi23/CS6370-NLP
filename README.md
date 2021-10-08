@@ -1,1 +1,2 @@
 # CS6370-NLP
+This repository consists of my work (assignments and project) while doing the course CS6370 - Natural Language Processing, offered by Prof. Sutanu Chakraborti, CSE IITM. I have built a search engine using Vector Space Model (VSM) with tf-idf weighting schemes. As a part of the final project, I worked on improving the VSM by incorporating synonymy and related words. This is done by Latent Semantic Indexing (LSI).
